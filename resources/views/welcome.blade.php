@@ -98,7 +98,7 @@
   <div class="row g-5">
     <div class="col-md-8">
       <h3 class="pb-4 mb-4 fst-italic border-bottom">
-        HOTELES
+        RESTAURANTES
       </h3>
       <article class="blog-post">
         <h2 class="display-5 link-body-emphasis mb-1">Los más reconocidos</h2>
@@ -150,7 +150,7 @@
   <div class="row g-5">
     <div class="col-md-8">
       <h3 class="pb-4 mb-4 fst-italic border-bottom">
-        HOTELES
+        TIENDAS
       </h3>
       <article class="blog-post">
         <h2 class="display-5 link-body-emphasis mb-1">Los más reconocidos</h2>
@@ -202,7 +202,7 @@
   <div class="row g-5">
     <div class="col-md-8">
       <h3 class="pb-4 mb-4 fst-italic border-bottom">
-        HOTELES
+        ZONAS TURISTICAS
       </h3>
       <article class="blog-post">
         <h2 class="display-5 link-body-emphasis mb-1">Los más reconocidos</h2>

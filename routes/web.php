@@ -34,3 +34,7 @@ Route::get('/place', function () {
     return view('lugar');
 })->name("place");
 
+Route::get('/session', function () {
+    return view('capacitaciones');
+})->name("session");
+
